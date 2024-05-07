@@ -21,9 +21,8 @@ Adapt paths as needed based on your system configuration.
 Execute the necessary commands/batch file for the desired output. 
 ##PROGRAM:
 ```
-DEVELOPED BY:P.ADITYA NAGA SAI
-REGISTER BY:212223110036
-
+DEVELOPED BY: JAYADEV PALLINTI
+REGISTER NO:212223240058
 ```
 
 # WINDOWS COMMANDS:
